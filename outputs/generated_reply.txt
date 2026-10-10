@@ -1,0 +1,26 @@
+INTELLIGENT EMAIL ASSISTANT - GENERATED REPLY
+=======================================================
+Date           : 10/10/2026 21:13
+Customer Name  : Priya
+Subject        : Delivery Issue
+Detected Intent: Delivery Issue
+=======================================================
+
+CUSTOMER EMAIL
+-------------------------------------------------------
+I ordered a product last week but my package has not arrived yet and the tracking has not updated.
+
+GENERATED REPLY
+-------------------------------------------------------
+Dear Customer,
+
+Thank you for reaching out to us about the status of your package. We understand how frustrating it can be when there's an unexpected delay in delivery. I've checked on the current status, and our logistics team is indeed investigating the issue. They will provide a more detailed update as soon as possible.
+
+We appreciate your patience and understanding during this time. If you have any further questions or concerns, please don't hesitate to contact us.
+
+Regards,
+Support Team
+
+CONVERSATION SUMMARY
+-------------------------------------------------------
+A customer reported that their package had not arrived despite the tracking showing no updates. The support team acknowledged the issue and informed the customer that a logistics investigation was underway, promising a more detailed update as soon as possible, and expressing appreciation for the customer's patience and understanding.

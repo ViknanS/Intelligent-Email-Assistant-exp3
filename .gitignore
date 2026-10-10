@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+screenshots/crop/
+outputs/session_state.json
+.DS_Store
